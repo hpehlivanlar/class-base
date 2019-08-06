@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\bin\Debug\class-base-kullanımı.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\bin\Debug\class-base-kullanımı.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\bin\Debug\class-base-kullanımı.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\obj\Debug\class-base-kullanımı.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\obj\Debug\class-base-kullanımı.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\obj\Debug\class-base-kullanımı.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\class-base-kullanımı\obj\Debug\class-base-kullanımı.pdb
